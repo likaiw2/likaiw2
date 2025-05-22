@@ -5,5 +5,3 @@
 - 📫 How to reach me: You can find me on GitHub or email me directly (contact info in resume/website).  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I once deployed a Bilibili trending crawler on a Raspberry Pi just for fun — and it still works!  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likaiw2)](https://github.com/anuraghazra/github-readme-stats)
