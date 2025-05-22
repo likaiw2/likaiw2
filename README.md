@@ -6,4 +6,4 @@
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I once deployed a Bilibili trending crawler on a Raspberry Pi just for fun — and it still works!  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={likai}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={likaiw2}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
