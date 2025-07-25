@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likaiw2  
 - 👀 I’m interested in computer vision, deep learning, and quantitative trading. I’ve worked on projects involving medical image segmentation, remote sensing segmentation, and underwater image style transfer.  
-- 🌱 I’m currently learning advanced techniques in PyTorch, reinforcement learning for stock trading (JoinQuant), and multi-modal models such as EarthVQA.  
+- 🌱 I’m currently learning advanced techniques in PyTorch, reinforcement learning for stock trading (JoinQuant), and multi-modal models.  
 - 💞️ I’m looking to collaborate on research projects in photogrammetry, remote sensing, and image understanding, especially those involving segmentation or representation learning.  
 - 📫 How to reach me: You can find me on GitHub or email me directly (contact info in resume/website).  
 - 😄 Pronouns: he/him  
